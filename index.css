@@ -1,0 +1,81 @@
+
+/* BASIC RESET */
+
+*,
+*::after,
+*::before {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+
+img {
+   display: block;
+   width: 100%;
+   height: auto;
+}
+
+/* VARIABLES */
+
+:root {
+   --WHITE: hsl(0, 0%, 100%);
+   --LIGHT-GRAY: hsl(212, 45%, 89%);
+   --GRAYISH-BLUE: hsl(220, 15%, 55%);
+   --DARK-BLUE: hsl(218, 44%, 22%);
+}
+
+/* GENERAL STYLES */
+
+html {
+   background: var(--LIGHT-GRAY);
+}
+
+body {
+   font-size: 15px;
+   display: flex;
+   height: 100vh;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+/* CONTAINER */
+
+.container {
+   max-width: 300px;
+   width: 80%;
+   background: var(--WHITE);
+   padding: 16px;
+   border-radius: 16px;
+   box-shadow: 1.85405px 1.948px 10px var(--DARK-BLUE);
+}
+
+.wrapper {
+   border-radius: 16px;
+   overflow: hidden;
+}
+
+.wrapper > img {
+   margin-bottom: 8px;
+}
+
+.wrapper > h1 {
+   margin-bottom: 8px;
+}
+
+.wrapper > p {
+   margin-bottom: 8px;
+}
+
+/* ATTRIBUTION */
+
+.attribution {
+   font-size: 11px; 
+   text-align: center; 
+}
+
+.attribution a {
+   color: hsl(228, 45%, 44%); 
+}
+
