@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/*
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.outfit-<uniquifier> {
+   font-weight: <weight>;
+}
+
+
+*/
 
 /* BASIC RESET */
 
@@ -7,7 +20,9 @@
    margin: 0;
    padding: 0;
    box-sizing: border-box;
-   font-family: sans-serif;
+   font-family: "Outfit", sans-serif;
+   font-optical-sizing: auto;
+   font-style: normal;
 }
 
 img {
@@ -43,8 +58,8 @@ body {
 /* CONTAINER */
 
 .container {
-   max-width: 300px;
-   width: 80%;
+   max-width: 320px;
+   width: 90%;
    background: var(--WHITE);
    padding: 16px;
    border-radius: 16px;
