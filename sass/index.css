@@ -62,17 +62,20 @@ body {
    width: 90%;
    background: var(--WHITE);
    padding: 16px;
-   border-radius: 16px;
+   border-radius: 18px;
    box-shadow: 1.85405px 1.948px 10px var(--DARK-BLUE);
 }
 
 .wrapper {
-   border-radius: 16px;
    overflow: hidden;
+   text-align: center;
+   font-size: 15px;
+   padding: 24px 18px;
 }
 
-.wrapper > img {
+.container > img {
    margin-bottom: 8px;
+   border-radius: 9px;
 }
 
 .wrapper > h1 {
