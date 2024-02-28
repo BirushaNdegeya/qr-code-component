@@ -149,11 +149,10 @@ body {
 
 ### Continued development
 
-I would like to start making all of my website using the React JavaScript Library and using the google materials design principles.
-
+ am transitioning towards building all of my websites using the React JavaScript Library, while adhering to the Google Material Design principles. This shift enables me to leverage the powerful capabilities of React for efficient development, while also ensuring that my designs align with the established usability and aesthetic standards advocated by Google's Material Design principles.
 
 ## Author
 
-- Website - [birushandegeya](https://www.your-site.com)
+- Website - [birushandegeya](https://myportfolio-chi-mocha.vercel.app/)
 - Frontend Mentor - [@BirushaNdegeya](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@BirushaNdegeya](https://twitter.com/BNdegeya62741)
