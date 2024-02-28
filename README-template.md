@@ -56,4 +56,4 @@ I would like to start making all of my website using the React JavaScript Librar
 
 - Website - [birushandegeya](https://www.your-site.com)
 - Frontend Mentor - [@BirushaNdegeya](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@BirushaNdegeya](https://twitter.com/BNdegeya62741)
