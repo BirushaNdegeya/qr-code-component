@@ -1,17 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-/*
-
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
-
-.outfit-<uniquifier> {
-   font-weight: <weight>;
-}
-
-
-*/
-
 /* BASIC RESET */
 
 *,
@@ -93,6 +81,7 @@ body {
 /* ATTRIBUTION */
 
 .attribution {
+   margin-top: 8px;
    font-size: 11px; 
    text-align: center; 
 }
