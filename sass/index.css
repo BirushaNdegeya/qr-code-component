@@ -63,7 +63,7 @@ body {
    background: var(--WHITE);
    padding: 16px;
    border-radius: 18px;
-   box-shadow: 1.85405px 1.948px 10px var(--DARK-BLUE);
+   box-shadow: 2.85405px 2.948px 10px var(--GRAYISH-BLUE);
 }
 
 .wrapper {
@@ -79,11 +79,15 @@ body {
 }
 
 .wrapper > h1 {
-   margin-bottom: 8px;
+   margin-bottom: 18px;
+   font-size: 20px;
+   font-weight: 700;
+   color: var(--DARK-BLUE);
 }
 
 .wrapper > p {
-   margin-bottom: 8px;
+   font-size: 15px;
+   color: var(--GRAYISH-BLUE);
 }
 
 /* ATTRIBUTION */
